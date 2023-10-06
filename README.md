@@ -1,13 +1,13 @@
 # Lending club case study
 > A consumer finance company that specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
->If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
->If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
+-If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company.
+-If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
@@ -32,7 +32,7 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 ## Technologies Used
 -python 3
 ## Acknowledgements
-- This project was based on [this tutorial]([https://www.example.com](https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565)https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565).
+- This project was based on [https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565)https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565].
 
 
 ## Contact
