@@ -21,10 +21,10 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Applicants with their OWN house accommodation are preferable
+- Applicants choosing short loan terms is preferable
+- Interest rate doesn't show a significant impact for defaulters. They are spread across all interest rates.
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -32,7 +32,8 @@ In this case study, we will use EDA to understand how consumer attributes and lo
 ## Technologies Used
 -python 3
 ## Acknowledgements
-- This project was based on [https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565)https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565].
+- This project is based on upgrad EDA module
+- [https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565)https://learn.upgrad.com/course/4701/segment/41960/245178/749010/3772565].
 
 
 ## Contact
